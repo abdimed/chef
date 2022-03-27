@@ -1,4 +1,4 @@
 *
 !public/
 !.gitignore
-!storage/app/videos
+storage/app/videos/
